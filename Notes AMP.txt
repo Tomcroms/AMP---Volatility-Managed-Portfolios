@@ -1,0 +1,28 @@
+Notes AMP
+
+
+- Est-ce qu'on enlève les "—" ? 
+
+- GFC -> qui utilise ce terme ? 
+
+- flight to quality -> j'ai du check ce que c'était 
+
+- pour le fx on prend pas en compte le carry ok, mais est-ce pertinent donc ? 
+
+- table 3 --> comment ça equity plus petit sharpe among directional assets c'est pas ce qu'il y a sur le tableau ?
+
+- C'est quoi ce tableau eft ? C'est juste les returns sans rien optimiser ? Faut dire ce que c'est 
+
+
+- table 4 -> expliquer plus j'ai rien capté
+
+
+- "and can overestimate volatility for several months after a crisis" ici c'est faux / pas clair pour moi soit "overestimate future / forecast volatility" ou alors explication mais pb du fait que on prend que 1 mois de data ça peut pas impacter several months
+
+- dans 6) 7) et 8) on pourrait donner les correspondances des variables et leurs unites 
+
+- "a negative beta is expected given the long-short structure" -> c'est connu ça ? Ou on cite un papier ? 
+
+- Figure 2 y'a un bug d'affichage dans le titre
+
+- Quand on calcule
